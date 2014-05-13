@@ -1,0 +1,214 @@
+Karate.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Amarillo
+  rotate: false
+  xy: 592, 316
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Azul
+  rotate: false
+  xy: 526, 297
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BtnPlay
+  rotate: false
+  xy: 2, 804
+  size: 236, 108
+  orig: 236, 108
+  offset: 0, 0
+  index: -1
+Calificar
+  rotate: false
+  xy: 364, 984
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+Fondo
+  rotate: false
+  xy: 2, 2
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+Gris
+  rotate: false
+  xy: 615, 250
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Jugar
+  rotate: false
+  xy: 526, 48
+  size: 138, 52
+  orig: 138, 52
+  offset: 0, 0
+  index: -1
+Leaders
+  rotate: false
+  xy: 240, 879
+  size: 82, 31
+  orig: 82, 31
+  offset: 0, 0
+  index: -1
+Morado
+  rotate: false
+  xy: 460, 804
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Music
+  rotate: false
+  xy: 484, 48
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+NoMusic
+  rotate: false
+  xy: 641, 149
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+NoSounds
+  rotate: false
+  xy: 304, 984
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Personaje
+  rotate: false
+  xy: 694, 2
+  size: 300, 496
+  orig: 300, 496
+  offset: 0, 0
+  index: -1
+Play
+  rotate: false
+  xy: 526, 196
+  size: 105, 52
+  orig: 105, 52
+  offset: 0, 0
+  index: -1
+Puntuacion
+  rotate: false
+  xy: 484, 2
+  size: 201, 44
+  orig: 201, 44
+  offset: 0, 0
+  index: -1
+Rate
+  rotate: false
+  xy: 462, 984
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+Rojo
+  rotate: false
+  xy: 394, 804
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Score
+  rotate: false
+  xy: 526, 149
+  size: 113, 45
+  orig: 113, 45
+  offset: 0, 0
+  index: -1
+Sounds
+  rotate: false
+  xy: 343, 984
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+Tablas
+  rotate: false
+  xy: 324, 878
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+Tiempo
+  rotate: false
+  xy: 526, 102
+  size: 132, 45
+  orig: 132, 45
+  offset: 0, 0
+  index: -1
+Time
+  rotate: false
+  xy: 526, 250
+  size: 87, 45
+  orig: 87, 45
+  offset: 0, 0
+  index: -1
+Titulo
+  rotate: false
+  xy: 304, 912
+  size: 388, 70
+  orig: 388, 70
+  offset: 0, 0
+  index: -1
+btnLeaders
+  rotate: false
+  xy: 153, 914
+  size: 149, 78
+  orig: 149, 78
+  offset: 0, 0
+  index: -1
+btnMusic
+  rotate: false
+  xy: 317, 804
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+btnRate
+  rotate: false
+  xy: 2, 914
+  size: 149, 78
+  orig: 149, 78
+  offset: 0, 0
+  index: -1
+btnSounds
+  rotate: false
+  xy: 240, 804
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+super_2ways
+  rotate: false
+  xy: 526, 425
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+super_horizontal
+  rotate: false
+  xy: 588, 382
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+super_vertical
+  rotate: false
+  xy: 526, 363
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

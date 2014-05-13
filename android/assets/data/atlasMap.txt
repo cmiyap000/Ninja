@@ -1,0 +1,109 @@
+atlasMap.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+marioJump
+  rotate: false
+  xy: 479, 90
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+marioDead
+  rotate: false
+  xy: 440, 103
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+resorte
+  rotate: false
+  xy: 475, 70
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+castillo
+  rotate: false
+  xy: 422, 18
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+moneda1
+  rotate: false
+  xy: 460, 90
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+sonidoOff
+  rotate: false
+  xy: 324, 95
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+moneda2
+  rotate: false
+  xy: 441, 74
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+moneda3
+  rotate: false
+  xy: 422, 74
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+tortuga2
+  rotate: false
+  xy: 486, 2
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+plataforma
+  rotate: false
+  xy: 422, 2
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1
+sonidoOn
+  rotate: false
+  xy: 324, 2
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+banner
+  rotate: false
+  xy: 2, 484
+  size: 273, 140
+  orig: 273, 140
+  offset: 0, 0
+  index: -1
+fondo
+  rotate: false
+  xy: 2, 2
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+marioFall
+  rotate: false
+  xy: 422, 103
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+tortuga1
+  rotate: false
+  xy: 475, 36
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
